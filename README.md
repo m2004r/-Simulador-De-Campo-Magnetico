@@ -1,4 +1,4 @@
-# Simulador de Campo Magnético - README
+# Simulador de Campo Magnético
 
 ## Visão Geral do Projeto
 
